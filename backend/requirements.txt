@@ -4,3 +4,4 @@ python-dotenv
 pydantic
 qdrant-client
 openai
+pytz
